@@ -1,0 +1,15 @@
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.swp
+*.result
+.gradle
+.idea
+build
+classes
+target
+/bin/
+.settings/
+.classpath
+.project
